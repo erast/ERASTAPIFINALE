@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">e.nam.application</string>
+    <string name="city">City</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="textview">TextView</string>
+    <string name="search">search</string>
+    <string name="name">Name:</string>
+    <string name="status">Status</string>
+    <string name="gender">Gender</string>
+    <string name="img">img</string>
+</resources>
