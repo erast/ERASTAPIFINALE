@@ -81,12 +81,7 @@ public class MainActivity extends AppCompatActivity {
             public void onResponse(JSONObject response)
             {
                 try {
-                    //JSONObject object=response.getJSONObject("results");
-                    /*JSONArray array = response.getJSONArray("weather");
-                    //Log.d("Tag", "resultat ="+array.toString());
-                    JSONObject object = array.getJSONObject(0);
-                    int tempC=(int)Math.round(main_object.getDouble("temp"));
-                    String temp=String.valueOf(tempC);*/
+                   
 
                     String name =response.getString("name");
                     String status=response.getString("status");
